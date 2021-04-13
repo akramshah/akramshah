@@ -1,0 +1,1 @@
+Hi! My name is Akram Shah. I am a full-stack web developer living in New York City. I have experience in developing web applications with languages and frameworks such as Javascript, React, & Python. I come from a creative background, with an eye for art direction and design. My strengths lie in UX Design and Frontend Engineering. Check out my portfolio and shoot me a message!
